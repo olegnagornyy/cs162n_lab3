@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\recursionlab_master\\Recursion_Core5\\Mulitplication\\Mulitplication.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\RiderProjects\\cs162n_lab3\\recursionlab_master\\Recursion_Core5\\Mulitplication\\Mulitplication.csproj",
       "projectName": "Mulitplication",
-      "projectPath": "C:\\Users\\admin\\Desktop\\recursionlab_master\\Recursion_Core5\\Mulitplication\\Mulitplication.csproj",
+      "projectPath": "C:\\Users\\admin\\RiderProjects\\cs162n_lab3\\recursionlab_master\\Recursion_Core5\\Mulitplication\\Mulitplication.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\recursionlab_master\\Recursion_Core5\\Mulitplication\\obj\\",
+      "outputPath": "C:\\Users\\admin\\RiderProjects\\cs162n_lab3\\recursionlab_master\\Recursion_Core5\\Mulitplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

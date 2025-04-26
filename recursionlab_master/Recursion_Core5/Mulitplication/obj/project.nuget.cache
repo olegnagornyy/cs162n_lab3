@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "puO4ZDtdXg4=",
+  "dgSpecHash": "uO9j85xuFag=",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\recursionlab_master\\Recursion_Core5\\Mulitplication\\Mulitplication.csproj",
+  "projectFilePath": "C:\\Users\\admin\\RiderProjects\\cs162n_lab3\\recursionlab_master\\Recursion_Core5\\Mulitplication\\Mulitplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
